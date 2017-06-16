@@ -2,3 +2,5 @@ gradebook.db
 .nbgrader.log
 .ipynb_checkpoints
 source/1/.ipynb_checkpoints
+.project
+.pydevproject
