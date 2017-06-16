@@ -4,3 +4,4 @@ gradebook.db
 source/1/.ipynb_checkpoints
 .project
 .pydevproject
+extract*
