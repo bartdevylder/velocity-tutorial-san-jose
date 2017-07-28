@@ -1,7 +1,7 @@
 # Data Science Tutorial
 
 To start the data science tutorial lauch Jupyter Notebook and open the release/1/index.ipnb file with the following command:
-```ipython notebook release/1/index.ipnb```
+```ipython notebook release/1/index.ipynb```
 
 If you want to see the solutions to the exercises you can find the same notebook structure under source/1.
 
